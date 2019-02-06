@@ -1,3 +1,9 @@
+## This exercise
+
+This was for a simple timed(approx 50 minutes) javascript test for **redacted** company. Using it you can display the public github repos/gists of any user.
+
+It uses styled components, axios, and react router.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
